@@ -14,3 +14,6 @@ On the other hand, I discovered there were libraries and scripts available onlin
 Documentation of one of many: https://github.com/verlok/vanilla-lazyload
 
 If HTML already has Lazy Loading for images, what's the point of these additional libraries and scripts? This project will experiment with it.
+
+# Attempt 1
+![Screenshot](attempt1.png)
