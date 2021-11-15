@@ -22,3 +22,13 @@ The HTML document contains 15 images of different models of Polestar cars. There
 
 This attempt processed, loaded, and displayed all 15 pictures immediately. 
 176kB was transferred. 4.0MB resources were used. The task finished in 224 ms.
+
+# Attempt 1
+I gave each image attribute
+loading: "lazy"
+
+![Screenshot](attempt2.png)
+
+Interestingly enough, this method cut the finish time by nearly 100 ms. 
+But I don't understand why there are still 14 images that are showing up in this list. In tutorials, you have to scroll down
+and images will pop in the list as you scroll. 
