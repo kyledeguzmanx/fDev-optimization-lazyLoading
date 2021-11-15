@@ -21,7 +21,7 @@ The HTML document contains 15 images of different models of Polestar cars. There
 ![Screenshot](attempt1.png)
 
 This attempt processed, loaded, and displayed all 15 pictures immediately. 
-176kB was transferred. 4.0MB resources were used. The task finished in 224 ms.
+4.0MB was transferred. 4.0MB resources were used. The task finished in 1.25s.
 
 # Attempt 1
 I gave each image attribute
@@ -29,6 +29,5 @@ loading: "lazy"
 
 ![Screenshot](attempt2.png)
 
-Interestingly enough, this method cut the finish time by nearly 100 ms. 
-But I don't understand why there are still 14 images that are showing up in this list. In tutorials, you have to scroll down
-and images will pop in the list as you scroll. 
+Interestingly enough, this method did reduce the initial loading. 
+But I don't understand why there are still list items that are showing up in this list. 
