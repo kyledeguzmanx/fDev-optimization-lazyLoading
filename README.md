@@ -30,8 +30,8 @@ loading: "lazy"
 
 ![Screenshot](attempt2.png)
 
-Interestingly enough, this method did reduce the initial loading. 
-But I don't understand why there are still list items that are showing up in this list. 
+Interestingly enough, this method did reduce the initial loading time.
+I don't understand why there are still list items that are showing up in this list. More research is required.
 
 # Attempt 2
 ![Screenshot](attempt3.png)
