@@ -32,3 +32,9 @@ loading: "lazy"
 
 Interestingly enough, this method did reduce the initial loading. 
 But I don't understand why there are still list items that are showing up in this list. 
+
+# Attempt 2
+![Screenshot](attempt2.png)
+Instead of using HTML's loading attribute, I used scripting from a GitHub repository.
+I found this interesting for a few reasons. This attempt's finish time is similar to the previous one. Are they equally effective?
+But this attempt is different from the previous one because it initially loads fewer photos than the previous attempt. But the finish time is roughly the same. I'll have to conduct more research.
